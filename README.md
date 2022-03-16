@@ -1,5 +1,3 @@
 # ReactStudy
 
-코드를 추가할 때는 메인에 자기 개인브랜치를 만들어서 추가 바랍니다!
-
-브랜치 만드는법![https://backlog.com/git-tutorial/kr/stepup/stepup2_2.html]
+코드를 추가할 때는 메인에 자기 개인폴더를 통으로 올려주시기 바랍니다!(코드 꼬임 방지
