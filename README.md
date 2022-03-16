@@ -1,3 +1,5 @@
 # ReactStudy
 
-코드를 추가할 때는 메인에 자기 개인폴더를 통으로 올려주시기 바랍니다!(코드 꼬임 방지
+코드를 추가할 때는 브랜치로 만들어주시기 바랍니다!
+
+깃허브 브랜치 설명:https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
