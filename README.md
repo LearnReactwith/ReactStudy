@@ -1,5 +1,5 @@
 # ReactStudy
 
-코드를 추가할 때는 브랜치로 만들어주시기 바랍니다!
+코드를 추가할 때는 자기 개인 브랜치에 업로드해주시길 바랍니다!
 
-깃허브 브랜치 설명:https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
+깃허브 브랜치 설명:https://redcow77.tistory.com/438
